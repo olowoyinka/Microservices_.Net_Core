@@ -34,8 +34,6 @@ C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\b
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.csproj.CoreCompileInputs.cache
-C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.dll
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.pdb
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Products\obj\Debug\netcoreapp3.1\ECommerce.Api.Products.genruntimeconfig.cache

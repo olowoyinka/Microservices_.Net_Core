@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JqgBDqCikoOG4EMEGggrLCNhr3OmETDPMg18dbqO+XqyhP3BUKcLTUZT8yiegXuFLOXQvOkuSHpz/zBLPHKMNg==",
+  "dgSpecHash": "EzzVag5QPPijh7HfiutDCSGQKbLPsdAFN1eARp5vsWa3fgv42fHhh/4UkOjYX98S/SLHeujorGJDTMZHq4JwQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\olowoyinka\\source\\repos\\MICROSERVICE\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\olowoyinka\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\olowoyinka\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
     "C:\\Users\\olowoyinka\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\olowoyinka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\olowoyinka\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\olowoyinka\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
   ],

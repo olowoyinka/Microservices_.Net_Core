@@ -30,8 +30,6 @@ C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csprojAssemblyReference.cache
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.AssemblyInfoInputs.cache
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.AssemblyInfo.cs
-C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csproj.CoreCompileInputs.cache
-C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.RazorTargetAssemblyInfo.cache
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csproj.CopyComplete
 C:\Users\olowoyinka\source\repos\MICROSERVICE\ECommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Customers.StaticWebAssets.Manifest.cache
